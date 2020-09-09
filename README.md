@@ -323,4 +323,3 @@ font.
 ![regedit](https://cloud.githubusercontent.com/assets/553208/19741304/71a2f3ae-9bc0-11e6-96aa-4c09a812c313.png)
 
 [font linking]: https://msdn.microsoft.com/en-us/goglobal/bb688134.aspx
-test
